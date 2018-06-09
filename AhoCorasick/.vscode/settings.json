@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        ".eslintrc": "jsonc",
+        "stdbool.h": "c"
+    }
+}
